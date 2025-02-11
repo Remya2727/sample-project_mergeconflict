@@ -13,8 +13,13 @@
             height: 100%;
             width: 80%;
             background-color: #1d539d;
+<<<<<<< HEAD
             color: green;
             padding-top: 15%;
+=======
+            color: white;
+            padding-top: 26%;
+>>>>>>> 941fee042cef8c381ec77df55d5c0ed6a6eb7087
             box-sizing: border-box;
             overflow-y: auto;
             overflow-x: hidden;
